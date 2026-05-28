@@ -11,6 +11,7 @@
     {"id":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},"order":2,},
     {"id":{"name":"spr_botao_skip","path":"sprites/spr_botao_skip/spr_botao_skip.yy",},"order":4,},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},"order":1,},
+    {"id":{"name":"obj_cutscene","path":"objects/obj_cutscene/obj_cutscene.yy",},"order":0,},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"order":0,},
     {"id":{"name":"spr_pagina1","path":"sprites/spr_pagina1/spr_pagina1.yy",},"order":0,},
     {"id":{"name":"spr_pagina4","path":"sprites/spr_pagina4/spr_pagina4.yy",},"order":3,},
