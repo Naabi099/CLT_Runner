@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_vagabundo",
+  "name": "obj_clt",
   "spriteId": {
-    "name": "spr_vagabundo",
-    "path": "sprites/spr_vagabundo/spr_vagabundo.yy",
+    "name": "spr_clt",
+    "path": "sprites/spr_clt/spr_clt.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,9 +27,6 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":65,"eventType":9,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":68,"eventType":9,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
